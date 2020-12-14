@@ -5,7 +5,7 @@ $('#login-button').click(function (event) {
 		event.preventDefault();
 		$('form').fadeOut(500);
 		$('.wrapper').addClass('form-success');
-		setTimeout(function(){location.href="BirthdayCake.html";},2000);
+		setTimeout(function(){location.href="home.html";},2000);
 	}
 	else{
 		alert("Wrong Password");
