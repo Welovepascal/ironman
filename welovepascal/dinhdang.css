@@ -1,0 +1,165 @@
+@charset "utf-8";
+
+body{
+	margin: 0px;
+	background-color: 	#e6fff8;
+}
+
+.chude{
+	background-color: yellow;
+	position: absolute;
+	width: 60%;
+	height: 7%;
+	z-index: 5;
+	left: 20%;
+	top: 0px;
+	border: 5px solid red;
+	border-radius: 20px;
+
+	font-size: 180%;
+	color: green;
+	font-weight: bolder;
+	margin: auto;
+}
+
+.icon{
+	position: absolute;
+	top: 1%;
+	left: 1%;
+	border: 2px dotted red;
+	border-radius: 50%;
+	z-index: 7;
+}
+
+.trangchu{
+	background-color: #F7DC6F;
+	position: absolute;
+	top: 10%;
+	left: 13%;
+	height:7%;
+	width: 12%;
+	border: 2px solid red;
+	border-radius: 10px;
+}
+
+.video{
+	background-color: #F7DC6F;
+	position: absolute;
+	top: 10%;
+	left: 30%;
+	height:7%;
+	width: 12%;
+	border: 2px solid red;
+	border-radius: 10px;
+}
+
+.tailieu{
+	background-color: #F7DC6F;
+	position: absolute;
+	top: 10%;
+	left: 47%;
+	height:7%;
+	width: 12%;
+	border: 2px solid red;
+	border-radius: 10px;
+}
+
+.thongtin{
+	background-color: #F7DC6F;
+	position: absolute;
+	top: 10%;
+	left: 64%;
+	height:7%;
+	width: 12%;
+	border: 2px solid red;
+	border-radius: 10px;
+}
+
+.website{
+	background-color: #F7DC6F;
+	position: absolute;
+	top: 10%;
+	left: 81%;
+	height:7%;
+	width: 12%;
+	border: 2px solid red;
+	border-radius: 10px;
+}
+
+.thongbao{
+	background-color: #7DCEA0;
+	width: 100%;
+	height: 5%;
+	position: absolute;
+	top: 21%;
+	right: 0px;
+	z-index: 3;
+	border: 3px solid #F4D03F;
+	border-radius: 20px;
+}
+
+.coban{
+	background-color: #7DCEA0;
+	width: 25%;
+	height: 8%;
+	position: absolute;
+	top:22%;
+	left: 5%;
+	border: 3px solid #F4D03F;
+	border-radius: 20px;
+}
+
+.nangcao{
+	background-color: #7DCEA0;
+	width: 25%;
+	height: 8%;
+	position: absolute;
+	top:55%;
+	left: 5%;
+	border: 3px solid #F4D03F;
+	border-radius: 20px;
+}
+
+.donggop{
+	margin-top: 15%;
+	margin-left: 10%;
+	color: red;
+	font-weight: bolder;
+	font-family: arial;
+	font-size: 20px;
+
+}
+
+.khungthongtin{
+	background-color: #7DCEA0;
+	height: 63%;
+	width: 100%;
+	position: absolute;
+	top: 25%;
+	left: 0;
+	border: 5px dotted yellow;
+	border-radius: 50px;
+}
+
+.thunghiem{
+	background-color: #7DCEA0;
+	height: 70%;
+	width: 100%;
+	position: absolute;
+	top: 30%;
+	left: 0;
+	border: 5px dotted yellow;
+	border-radius: 50px;
+}
+
+.khungvideo{
+	background-color: #7DCEA0;
+	height: 110%;
+	width: 100%;
+	position: absolute;
+	top: 25%;
+	left: 0;
+	border: 5px dotted yellow;
+	border-radius: 50px;
+}
+
