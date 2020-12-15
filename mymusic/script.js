@@ -49,6 +49,18 @@ $(function () {
         url: "Musics/nguoi-tinh-mua-dong-ha-anh-tuan.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     },
+    {
+        artist: "Soái Nhi",
+        name: "Cô gái Gucci",
+        url: "Musics/co-gai-guicci-soai-nhi-cover.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
+    {
+        artist: "Andiez",
+        name: "Một phút",
+        url: "Musics/1_phut_andiez_228413.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
     ];
 
     function shuffle(a) {
