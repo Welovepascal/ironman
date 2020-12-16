@@ -38,6 +38,36 @@ $(function () {
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     },
     {
+        artist: "Quân A.P",
+        name: "Ai là người thương em",
+        url: "Musics/ai_la_nguoi_thuong_em_quan_a_p_lyrics_VOdBBXMByoK-gucZ6eqC.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
+    {
+        artist: "Phạm Nguyên Ngọc",
+        name: "Anh sẽ ổn thôi - Cover",
+        url: "Musics/anh_se_on_thoi_cover_live_tai_dem_nhac_tui_mo_nho_da_lat_i9dKBHMByoK-gucZ9f0f.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
+    {
+        artist: "Datkaa",
+        name: "Dừng thương",
+        url: "Musics/dung_thuong_datkaa_official_music_video_zwOZ6nIByoK-gucZ_mCz.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
+    {
+        artist: "Chillies",
+        name: "Mascara",
+        url: "Musics/mascara_chillies_x_blaze_official_music_video_ifK3BXMByoK-gucZKx3H.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
+    {
+        artist: "Thái Đinh",
+        name: "Phố không em",
+        url: "Musics/pho_khong_em_thai_dinh_official_audio_2016_186686.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
+    {
         artist: "Fay Cute",
         name: "Tình yêu khủng long",
         url: "Musics/tinh-yeu-khung-long.mp3",
